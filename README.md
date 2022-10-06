@@ -23,8 +23,7 @@ My name is HMAMOUCH Mohamed, I'm an engineer student in my last year at the Ecol
           
 ### 📊 Stats
 
-![GitHub Stats](https://github-README-stats.vercel.app/api username=MohamedHmamouch&theme=blue-green)
-
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHmamouch&show_icons=true&theme=radical)
 
                     
                                         
