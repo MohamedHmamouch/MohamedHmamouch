@@ -3,7 +3,7 @@
 As long as you are on my github profile, you are interested in my profile. So in this section I'm going to tell you a little bit about myself.
 My name is HMAMOUCH Mohamed, I'm an engineer student in my last year at the Ecole des Mines d'Albi in France in data science and information system field. I'm a person who loves numbers and data to make strategic and optimal decisions, that's why I chose to continue my studies after the preparatory classes in data science.
 
-All coding project that you will find here are built to solve a real world problem.
+**` All coding project that you will find here are built to solve a real world problem.
 
 
 ### Languages and Tools 
