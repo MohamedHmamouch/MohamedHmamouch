@@ -6,7 +6,8 @@ My name is HMAMOUCH Mohamed, I'm an engineer student in my last year at the Ecol
 **` All coding project that you will find here are built to solve a real world problem.`**
 
 
-### Languages and Tools 
+
+# Languages and Tools 
 
 <img align='left' alt='Python' width='30px' style='padding-right : 10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
 <img align='left' alt='JAVA' width='30px' style='padding-right : 10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' />
@@ -19,11 +20,13 @@ My name is HMAMOUCH Mohamed, I'm an engineer student in my last year at the Ecol
 <img align='left' alt='Python' width='30px' style='padding-right : 10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' />
 <img align='left' alt='Python' width='30px' style='padding-right : 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align='left' alt='Python' width='30px' style='padding-right : 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          
-          
-### 📊 Stats
+<br/>     
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHmamouch&show_icons=true&theme=radical)
+# 📊 Stats
 
-                    
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=MohamedHmamouch&show_icons=true&theme=radical"/>
+
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHmamouch&layout=compact"/>
+
+
                                         
