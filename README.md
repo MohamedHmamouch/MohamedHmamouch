@@ -2,7 +2,8 @@
 
 As long as you are on my github profile, you are interested in my profile. So in this section I'm going to tell you a little bit about myself. My name is HMAMOUCH Mohamed, I'm an engineer student in my last year at the Ecole des Mines d'Albi in France in data science and information system field. I'm a person who loves to play with numbers and data, and the fact that is a very strong tool to make strategic and optimal decisions, that's why I chose to continue my studies after the preparatory classes in data science, and to do what I love as a job .</br>
 
-[![HitCount](https://hits.dwyl.com/MohamedHmamouch/README.svg?style=flat-square)](http://hits.dwyl.com/MohamedHmamouch/README)
+
+[![HitCount](https://hits.dwyl.com/MohamedHmamouch/README.svg?style=flat-square&show=unique)](http://hits.dwyl.com/MohamedHmamouch/README)
 
 
 **` All coding project that you will find here are built to solve a real world problem.`**
