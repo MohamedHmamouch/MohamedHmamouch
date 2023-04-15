@@ -1,6 +1,6 @@
 # About Me
 
-As long as you are on my github profile, you are interested in my profile. So in this section I'm going to tell you a little bit about myself. My name is HMAMOUCH Mohamed, I'm an engineer student in my last year at the Ecole des Mines d'Albi in France in data science and information system field. I'm a person who loves to play with numbers and data, and the fact that is a very strong tool to make strategic and optimal decisions, that's why I chose to continue my studies after the preparatory classes in data science, and to do what I love as a job .</br>
+If you've stumbled upon my GitHub profile, then you've found someone with a fiery passion for data science and information systems. My name is HMAMOUCH Mohamed, and I'm currently a final year engineering student at Ecole des Mines d'Albi in France. I thrive on the challenge of analyzing complex data sets and using them to make strategic decisions that optimize results. That's why I'm dedicating my career to this dynamic field. With a strong work ethic and determination to succeed, I am eager to bring my skills and enthusiasm to a full-time position.</br>
 
 
 [![HitCount](https://hits.dwyl.com/MohamedHmamouch/README.svg?style=flat-square&show=unique)](http://hits.dwyl.com/MohamedHmamouch/README)
