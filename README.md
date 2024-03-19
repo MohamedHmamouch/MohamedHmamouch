@@ -1,5 +1,8 @@
 # 💫 About Me:
 If you've stumbled upon my GitHub profile, then you've found someone with a fiery passion for data science and information systems. My name is HMAMOUCH Mohamed, and I'm currently a final year engineering student at Ecole des Mines d'Albi in France. I thrive on the challenge of analyzing complex data sets and using them to make strategic decisions that optimize results. That's why I'm dedicating my career to this dynamic field. With a strong work ethic and determination to succeed, I am eager to bring my skills and enthusiasm to a full-time position.
+- 🌱 Currently, I'm delving into **Machine Learning System Design and Causal Inference.**
+- 🔭 I'm currently engaged in mastering Algorithms and Data Structures, alongside sharpening my skills in Competitive Programming.
+
 
 
 ## 🌐 Socials:
